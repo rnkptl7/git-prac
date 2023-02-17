@@ -5,3 +5,13 @@ function fetchData(email, name) {
 }
 
 fetchData();
+
+function login(email, password) {
+    if(email === password){
+        alert("You have to login succesfully!");
+    } else{
+        alert("Invalid Credentials!")
+    }
+}
+
+login();
