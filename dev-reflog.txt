@@ -1,0 +1,38 @@
+e5a2c09 HEAD@{0}: checkout: moving from development to development
+e5a2c09 HEAD@{1}: reset: moving to e5a2c09
+38b7830 HEAD@{2}: reset: moving to 38b7830
+38b7830 HEAD@{3}: reset: moving to 38b7830
+38b7830 HEAD@{4}: commit: Add dev-reflog.txt
+e5a2c09 HEAD@{5}: checkout: moving from feature to development
+ca68a19 HEAD@{6}: rebase (continue) (finish): returning to refs/heads/feature
+ca68a19 HEAD@{7}: rebase (pick): add login functionality in app.js
+7f61aa7 HEAD@{8}: rebase (start): checkout 7f61aa7
+3f1b995 HEAD@{9}: rebase (abort): updating HEAD
+fd3e5a7 HEAD@{10}: rebase (pick): add login functionality in app.js
+7f61aa7 HEAD@{11}: rebase (start): checkout 7f61aa7
+3f1b995 HEAD@{12}: rebase (finish): returning to refs/heads/feature
+3f1b995 HEAD@{13}: rebase (start): checkout bb5ed19
+3f1b995 HEAD@{14}: checkout: moving from development to feature
+e5a2c09 HEAD@{15}: cherry-pick: Add footer
+bb5ed19 HEAD@{16}: checkout: moving from feature to development
+3f1b995 HEAD@{17}: commit: Add footer
+0abcc8d HEAD@{18}: checkout: moving from development to feature
+bb5ed19 HEAD@{19}: checkout: moving from feature to development
+0abcc8d HEAD@{20}: checkout: moving from development to feature
+bb5ed19 HEAD@{21}: checkout: moving from feature to development
+0abcc8d HEAD@{22}: rebase (finish): returning to refs/heads/feature
+0abcc8d HEAD@{23}: rebase (reword): add login functionality in app.js
+c215d02 HEAD@{24}: rebase: fast-forward
+bb5ed19 HEAD@{25}: rebase (start): checkout 1c9b13b
+c215d02 HEAD@{26}: checkout: moving from development to feature
+bb5ed19 HEAD@{27}: rebase (finish): returning to refs/heads/development
+bb5ed19 HEAD@{28}: rebase (start): checkout bb5ed19
+7f61aa7 HEAD@{29}: checkout: moving from feature to development
+c215d02 HEAD@{30}: commit: add login functionality
+bb5ed19 HEAD@{31}: commit: add intro section
+7f61aa7 HEAD@{32}: checkout: moving from development to feature
+7f61aa7 HEAD@{33}: commit: add fetchData functionality
+1c9b13b HEAD@{34}: commit: Create app.js
+7ebfeea HEAD@{35}: commit: create navbar for home page
+6ca6a5e HEAD@{36}: checkout: moving from master to development
+6ca6a5e HEAD@{37}: commit (initial): initial commit
