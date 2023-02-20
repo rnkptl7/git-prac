@@ -1,0 +1,40 @@
+ca68a19 HEAD@{0}: checkout: moving from development to feature
+5fa48b8 HEAD@{1}: commit: Add dev-reflog.txt
+e5a2c09 HEAD@{2}: checkout: moving from development to development
+e5a2c09 HEAD@{3}: reset: moving to e5a2c09
+38b7830 HEAD@{4}: reset: moving to 38b7830
+38b7830 HEAD@{5}: reset: moving to 38b7830
+38b7830 HEAD@{6}: commit: Add dev-reflog.txt
+e5a2c09 HEAD@{7}: checkout: moving from feature to development
+ca68a19 HEAD@{8}: rebase (continue) (finish): returning to refs/heads/feature
+ca68a19 HEAD@{9}: rebase (pick): add login functionality in app.js
+7f61aa7 HEAD@{10}: rebase (start): checkout 7f61aa7
+3f1b995 HEAD@{11}: rebase (abort): updating HEAD
+fd3e5a7 HEAD@{12}: rebase (pick): add login functionality in app.js
+7f61aa7 HEAD@{13}: rebase (start): checkout 7f61aa7
+3f1b995 HEAD@{14}: rebase (finish): returning to refs/heads/feature
+3f1b995 HEAD@{15}: rebase (start): checkout bb5ed19
+3f1b995 HEAD@{16}: checkout: moving from development to feature
+e5a2c09 HEAD@{17}: cherry-pick: Add footer
+bb5ed19 HEAD@{18}: checkout: moving from feature to development
+3f1b995 HEAD@{19}: commit: Add footer
+0abcc8d HEAD@{20}: checkout: moving from development to feature
+bb5ed19 HEAD@{21}: checkout: moving from feature to development
+0abcc8d HEAD@{22}: checkout: moving from development to feature
+bb5ed19 HEAD@{23}: checkout: moving from feature to development
+0abcc8d HEAD@{24}: rebase (finish): returning to refs/heads/feature
+0abcc8d HEAD@{25}: rebase (reword): add login functionality in app.js
+c215d02 HEAD@{26}: rebase: fast-forward
+bb5ed19 HEAD@{27}: rebase (start): checkout 1c9b13b
+c215d02 HEAD@{28}: checkout: moving from development to feature
+bb5ed19 HEAD@{29}: rebase (finish): returning to refs/heads/development
+bb5ed19 HEAD@{30}: rebase (start): checkout bb5ed19
+7f61aa7 HEAD@{31}: checkout: moving from feature to development
+c215d02 HEAD@{32}: commit: add login functionality
+bb5ed19 HEAD@{33}: commit: add intro section
+7f61aa7 HEAD@{34}: checkout: moving from development to feature
+7f61aa7 HEAD@{35}: commit: add fetchData functionality
+1c9b13b HEAD@{36}: commit: Create app.js
+7ebfeea HEAD@{37}: commit: create navbar for home page
+6ca6a5e HEAD@{38}: checkout: moving from master to development
+6ca6a5e HEAD@{39}: commit (initial): initial commit
